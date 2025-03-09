@@ -1,0 +1,16 @@
+{
+    "sadcaptcha_api_key": "API_KEY",
+    "max_login_attempts": 3,
+    "headless": false,
+    "accounts_file": "acc.txt",
+    "comments_file": "comments.txt",
+    "proxies_file": "proxies.txt",
+    "min_delay": 0.5,
+    "max_delay": 1,
+    "login_delay": 2,
+    "cycles_per_account": 10,
+    "min_next_clicks": 1,
+    "max_next_clicks": 3,
+    "max_concurrent_accounts": 3,
+    "proxy_type": "http"
+}
